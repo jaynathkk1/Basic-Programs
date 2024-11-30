@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c"
-    },
-    "dart.flutterAdbConnectOnChromeOs": true,
-    "dart.debugExternalPackageLibraries": true,
-    "dart.allowTestsOutsideTestFolder": true,
-    "debug.javascript.breakOnConditionalError": true
-}
